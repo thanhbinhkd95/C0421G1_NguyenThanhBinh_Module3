@@ -1,0 +1,78 @@
+.menu {
+    background-color: #555555;
+    height: 50px;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    width: 80%;
+}
+
+li {
+    color: white;
+    float: left;
+    display: block;
+    width: 100px;
+    text-align: center;
+    position: relative;
+    line-height: 50px;
+}
+
+ul :hover {
+    background-color: black;
+}
+
+.button-1 {
+    height: 50px;
+    width: 50px;
+    background-color: #555555;
+    float: right;
+    margin-right: 10px;
+}
+
+.left-side, .right-side {
+    width: 25%;
+    height: 500px;
+    background-color: #f0f2f5;
+    float: left;
+}
+
+a {
+    display: block;
+    color: blue;
+    padding-top: 20px;
+}
+
+.content {
+    width: 50%;
+    float: left;
+}
+
+.button-2 {
+    display: block;
+    width: 80%;
+    height: 80px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.footer {
+    text-align: center;
+    height: 30px;
+    background-color: #555555;
+    clear: both;
+    padding-top: 20px;
+}
+
+@media only screen and (max-width: 500px) {
+    .left-side, .right-side {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .left-side {
+        display: none;
+    }
+}
