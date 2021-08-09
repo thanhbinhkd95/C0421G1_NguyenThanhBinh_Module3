@@ -1,42 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="07768b50-f6ec-416f-9832-66d341fdfeed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/C0421G1_NguyenThanhBinh_Module3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/quan_ly_san_pham.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/.gradle/6.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/.gradle/6.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/classes/java/main/controller/CustomerServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/classes/java/main/controller/CustomerServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/classes/java/main/controller/EmployeeServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/classes/java/main/controller/EmployeeServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/classes/java/main/model/repository/customer/CustomerRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/classes/java/main/model/repository/customer/CustomerRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/classes/java/main/model/repository/customer/CustomerRepositoryImlp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/classes/java/main/model/repository/customer/CustomerRepositoryImlp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/classes/java/main/model/repository/employee/EmployeeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/classes/java/main/model/repository/employee/EmployeeRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/classes/java/main/model/repository/employee/EmployeeRepositoryImlp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/classes/java/main/model/repository/employee/EmployeeRepositoryImlp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/classes/java/main/model/service/customer/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/classes/java/main/model/service/customer/CustomerService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/classes/java/main/model/service/customer/CustomerServiceImlp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/classes/java/main/model/service/customer/CustomerServiceImlp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/classes/java/main/model/service/employee/EmployeeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/classes/java/main/model/service/employee/EmployeeService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/classes/java/main/model/service/employee/EmployeeServiceImlp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/classes/java/main/model/service/employee/EmployeeServiceImlp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/libs/khu_nghi_duong_furama-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/build/libs/khu_nghi_duong_furama-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/java/controller/CustomerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/java/controller/CustomerServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/java/controller/EmployeeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/java/controller/EmployeeServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/java/model/repository/customer/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/java/model/repository/customer/CustomerRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/java/model/repository/customer/CustomerRepositoryImlp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/java/model/repository/customer/CustomerRepositoryImlp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/java/model/repository/employee/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/java/model/repository/employee/EmployeeRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/java/model/repository/employee/EmployeeRepositoryImlp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/java/model/repository/employee/EmployeeRepositoryImlp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/java/model/service/customer/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/java/model/service/customer/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/java/model/service/customer/CustomerServiceImlp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/java/model/service/customer/CustomerServiceImlp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/java/model/service/employee/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/java/model/service/employee/EmployeeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/java/model/service/employee/EmployeeServiceImlp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/java/model/service/employee/EmployeeServiceImlp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/webapp/view/employee/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../case_study_servlet/khu_nghi_duong_furama/src/main/webapp/view/employee/edit.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -62,6 +77,9 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1uZyCB4y860C3jpF0LV1M5EEjdL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -71,12 +89,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.48" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.48" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
@@ -180,17 +201,37 @@
       <workItem from="1625386135483" duration="1042000" />
       <workItem from="1625387960062" duration="288000" />
       <workItem from="1625795892098" duration="1229000" />
+      <workItem from="1628214576294" duration="186000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1624961146137">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1624961146137" />
+    <state x="380" y="0" width="619" height="728" key="#Tomcat_9.0.48" timestamp="1628214708417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="0" width="619" height="728" key="#Tomcat_9.0.48/0.0.1366.728@0.0.1366.728" timestamp="1628214708417" />
+    <state x="468" y="242" key="#Tomcat_Server" timestamp="1628214697267">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="468" y="242" key="#Tomcat_Server/0.0.1366.728@0.0.1366.728" timestamp="1628214697267" />
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624888906761">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -199,6 +240,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1624961772751" />
+    <state x="502" y="54" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1628214633993">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="502" y="54" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1366.728@0.0.1366.728" timestamp="1628214633993" />
     <state x="237" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1624961978705">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -255,10 +300,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="905" height="186" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1625388247802" />
-    <state x="65" y="0" key="new project wizard" timestamp="1625024582477">
+    <state x="163" y="0" key="SettingsEditor" timestamp="1628214737840">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1625024582477" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1628214737840" />
+    <state x="65" y="0" key="new project wizard" timestamp="1628214768341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1628214768341" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1624894506866">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
